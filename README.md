@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RAVI0851
+- 👋 Hi, I’m RAVI
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning dsa using java
 - 💞️ I’m looking to collaborate on any positions
